@@ -59,7 +59,7 @@ export default {
 
     .info {
         color: #999;
-        font-size: 1.6px;
+        font-size: 9px;
         .timestamp {
             margin: 0px;
         }
