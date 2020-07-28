@@ -19,11 +19,12 @@ export default {
 
 <style scoped lang="scss">
 .card {
+    width: 90%;
+    min-width: 320px;
     position: relative;
     display: inline-block;
     padding: 10px 20px;
     transition: all 0.5s;
-    width: 700px;
     padding-bottom: 5px;
     padding-left: 10px;
     background-color: #FFF;
